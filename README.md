@@ -8,9 +8,6 @@
 
 A sleek and efficient Python web scraper that extracts product information from Amazon.fr. This tool helps you quickly gather product names, prices, and links for market research and price comparison.
 
-![Amazon Scraper Demo](https://via.placeholder.com/800x400/232F3E/FFFFFF?text=Amazon+Price+Scraper+in+Action)
-*Visual representation of the scraper interface*
-
 ## ✨ Features
 
 - **Product Search**: Find any product on Amazon.fr
@@ -33,7 +30,12 @@ A sleek and efficient Python web scraper that extracts product information from 
 git clone https://github.com/your-username/amazon-price-scraper.git
 cd amazon-price-scraper
 ```
-##🚀 Quick Start
+### Install required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+### 🚀 Usage
 Run the script with Python:
 
 ```bash
@@ -69,6 +71,9 @@ Lien: Direct URL to the product page
  
 🛍️ File output : 
 ![Scraper Demo](./images/outputs.png)
+*Visual representation of the scraper interfaces*
+
+
 The script displays a colorful progress bar during scraping
 
 ## 🎨 Design Features
@@ -106,9 +111,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🌟 Related Projects
 Check out our other web scraping tools:
 Jumia Product Scraper : 
-![Amazon Scraper Demo](https://github.com/AchrafElboumashouli/Jumia-Web-Scraper/)
+![Jumia Scraper tool ](https://github.com/AchrafElboumashouli/Jumia-Web-Scraper/)
 
-##⭐ If you find this project useful, please give it a star on GitHub!
+⭐ If you find this project useful, please give it a star on GitHub!
 
 ### Powered by 🚀 ACHRAF EL BOUMASHOULI 🚀
 
